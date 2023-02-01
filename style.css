@@ -1,0 +1,56 @@
+header {
+    background: #5B7259;
+    color: #fff;
+    width: 800px;
+    /* закругление */
+    border-radius: 30px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+header span {
+    font-size: 50px;
+    color: #BBBD44;
+
+    /* text-align: right; */
+}
+
+h2 {
+    margin: 0;
+    text-align: start;
+}
+
+h3 {
+    text-align: right;
+    margin: 0;
+}
+
+.card {
+    background: #C1CDBA;
+    border-radius: 30px;
+    width: 1000px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.left {
+    display: flex;
+    align-items: center;
+}
+.desc {
+font-size:40px;
+}
+.price {
+    font-size:35px ;
+}
+main {
+    margin:0 auto;
+    width: 1030px;
+}
